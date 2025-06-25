@@ -1,0 +1,10 @@
+{
+      "name": "AzeriKino",
+      "description": "Azerikino.com filmlerini CloudStream'de izlemek için eklenti.",
+      "version": 1,
+      "language": "tr",
+      "type": "media",
+      "icon": "https://www.azerikino.com/wp-content/uploads/2023/11/logo.png",
+      "authors": ["Khayalll"],
+      "mainClass": "AzeriKinoPlugin"
+    }
